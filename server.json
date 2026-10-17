@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "host": "2.27.101.209",
+  "port": 443,
+  "path": "/ws",
+  "certSha256": [
+    "f13f7f6c0cebaab73297f4e357e36451e8310a2143b9cd1a6950155de0ebc1fa"
+  ],
+  "protocol": 1,
+  "online": true,
+  "message": ""
+}
